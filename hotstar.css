@@ -4,9 +4,19 @@ body{
     
 }
 .heading{
-
-    color: whitesmoke;
-    background-color:#121825
+    /* margin-left: 2%;
+    font-size:x-large;
+    margin-top: 2%;
+    color: white; */
+    color: #fff;
+    opacity:0.9;
+    padding-left: 4%;
+    text-transform: capitalize;
+    font-size:x-large;
+    font-weight:500;
+     margin-top: 1%; 
+    
+    
 }
 header{
     width: 100%;
@@ -26,24 +36,52 @@ header{
     background-image: linear-gradient(to right,rgba(7, 7, 7,0),rgba(7, 7, 7,0.8));
     z-index: 5;
 }
-#slide{
-   
-    background-color: #121825;
-    margin-top: 0%;
-}
-.slider1{
-    background-color: #121825;
-    
-    margin-left: 50px;
-    margin-right: 50px;
-}
-
-.lt>img{
-    height: 200px;
-    width: 150px;
-    border-radius: 5%;
-}
-.lt:hover{
-
+.cards
+{
+width: 95%;
+height: 250px;
+ /* border: 2px solid black;  */
+margin-top: 1%;
+margin-left: 50px;
+margin-right: 50px;
+ overflow-y: visible;
+scroll-behavior: smooth; 
 }
 
+.tile
+{
+    /* position: relative; */
+width: 5%;
+height: 250px;
+/* border: 2px solid rgb(201, 13, 13); */
+/* margin-top: 1%; */
+ margin-left: 1%; 
+float: left;
+border-radius: 5%;
+transition:0.2s ease-in-out;
+}  
+.tile>img{
+    width: 100%;
+height: 226px;
+border-radius: 5%;
+}
+.tile:hover{
+    transform:scale(1.1);
+} 
+.tile:hover .card-body{
+    opacity: 1;
+}
+ .card-body{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    /* opacity: 0; */
+    top: 0;
+    left: 0;
+    z-index: 2;
+    background: linear-gradient(to bottom , rgba(4 , 8 , 15 , 0),#192133 90%);
+    padding: 10px;
+    transition: 0.5s;
+
+
+}
