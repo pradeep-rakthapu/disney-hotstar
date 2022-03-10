@@ -1,14 +1,22 @@
 body{
     color: whitesmoke;
-    background-color:#121825
+    background-color:var(--primary-color)
     
+}
+:root{
+    --primary-color:#121825;
+    --secondary-color:#fff;
+}
+.light-theme{
+    --primary-color:#fff;
+     --secondary-color: #121825;
 }
 .heading{
     /* margin-left: 2%;
     font-size:x-large;
     margin-top: 2%;
     color: white; */
-    color: #fff;
+    color: var(--secondary-color);
     opacity:0.9;
     padding-left: 4%;
     text-transform: capitalize;
