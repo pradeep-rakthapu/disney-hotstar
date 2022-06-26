@@ -1,0 +1,188 @@
+[
+    {
+        "v_id": 1,
+        "tv_id":1,
+        "name" :"insanity",
+        "category_id": 1, 
+        "age":"18",
+        "description":"Following a breakdown, forensics investigator Paula is admitted to a psychiatric hospital. There, she is pulled into the most terrifying corners of her mind.",
+        "image":"https://i.ibb.co/HPT5Kpb/1105934-h-badb7cdab145.jpg",
+        "year": 2022 ,
+        "genres":"Horror",
+        "channel":"SelectPicks",
+        "season":1,
+        "episodes":8,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    }, 
+    {
+        "v_id": 82,
+        "k_id":1,
+        "name" :"The Wonderful Spring of Mickey Mouse",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Mickey Mouse and his friends explore the promise of the spring season through the lens of a unique nature documentary.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9244/1159244-h-10e47c6f3aab",
+        "year": 2022 ,
+        "genres":"kids",
+        "channel":"Mickey",
+        "runtine":"45min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+
+        "v_id": 36,
+        "m_id":16,
+        "category_id": 2,
+        "name":"The Lion King",
+        "age":"7",
+        "description":"In the African savanna, a young prince overcomes betrayal and tragedy to assume his rightful place on Pride Rock.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4600/674600-h",
+        "year": 2019,
+        "genres":"Adventure",
+        "runtime":"1hr58min",
+          
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+    
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+    
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+    
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+    
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 47,
+        "s_id":7,
+        "category_id": 3,
+        "name":"India 4-0 Hong Kong",
+        "description":"India thrashed Hong Kong in style to top their group and qualify for AFC Asian Cup 2023",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7706/1277706-h-275514d4314a",
+        "year": 2022,
+        "genres":"Sport",
+        "sport":"Football",
+        "tournment":"AscAsiacup",
+        "runtime":"15min",
+          
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+            
+        ]
+    }, 
+    {
+        "v_id":71 ,
+        "d_id":10,
+        "name" :"Cruella",
+        "category_id": 4, 
+        "age":"7",
+        "description":"The film is about the rebellious early days of cinema's most notorious and fashionable villains, the legendary Cruella de Vil.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/8630/1048630-h-c2405ed05f69",
+        "year":  2021,
+        "genres":"Crime",
+        "channel":"Disney",
+        "runtine":"2hr13min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            }
+        ]
+    }
+]

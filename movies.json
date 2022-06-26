@@ -1,0 +1,672 @@
+[
+    {
+        "v_id": 21,
+        "m_id":1,
+        "category_id": 2,
+        "name":"Shidat",
+        "age":"16",
+        "description":"Love-struck Jaggi can cross the seven seas for his dream girl, Kartika. Even if it means stopping her wedding.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2068/1062068-h-54b155e41999",
+        "year": 2021,
+        "genres":"Romance",
+        "runtime":"2hr26min",
+          
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 22,
+        "m_id":2,
+        "category_id": 2,
+        "name":"Ratatouille",
+        "age":"7",
+        "description":"Remy, a rat, aspires to become a renowned French chef. He teams up with an inept young man and scores a job in a restaurant started by his idol.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4606/674606-h",
+        "year": 2007,
+        "genres":"Animation",
+        "runtime":"1hr51min",
+          
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 23,
+        "m_id":3,
+        "category_id": 2,
+        "name":"Bro Daddy",
+        "age":"7",
+        "description":"Eesho and Anna's families are close-knit friends. Their parents want them married, but both skillfully avoid it. What are they hiding?",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5275/1105275-h-db6711300155",
+        "year": 2022,
+        "genres":"Family",
+        "runtime":"2hr39min",
+          
+        "languages" : [
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 24,
+        "m_id":4,
+        "category_id": 2,
+        "name":"83",
+        "age":"7",
+        "description":"Chronicling the historic 1983 Cricket World Cup, thirteen underdogs led by Kapil Dev fight and win against all odds to put India on the map.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5603/1145603-h-3038c1e973f7",
+        "year": 2021,
+        "genres":"Biopic",
+        "runtime":"2hr40min",
+          
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 25,
+        "m_id":5,
+        "category_id": 2,
+        "name":"Kaathuvaakula Rendu Kaadhal",
+        "age":"16",
+        "description":"Unlucky since birth, Rambo finds hope when he falls in love with Kanmani and Khatija. His life gets complicated further when they both pursue him.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3445/1253445-h-c5fa4a91eaca",
+        "year": 2022,
+        "genres":"Comedy",
+        "runtime":"2hr27min",
+          
+        "languages" : [
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 26,
+        "m_id":6,
+        "category_id": 2,
+        "name":"Sree Ramadasu",
+        "age":"7",
+        "description":"Kancherla Gopanna becomes the tehsildar of Husnabad, causing turmoil among rivals. His major task is to build a Ram temple while dealing with communal unrest.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/old_images/MOVIE/5395/1000055395/1000055395-h",
+        "year": 2006,
+        "genres":"Mythology",
+        "runtime":"2hr30min",
+          
+        "languages" : [
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 27,
+        "m_id":7,
+        "category_id": 2,
+        "name":"Netrikann",
+        "age":"18",
+        "description":"When fear grips Chennai as girls get abducted in the city, blind ex-cop Durga becomes the prime witness in the case and the kidnapper's object of obsession.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/272/1050272-h-3391ad0457ca",
+        "year": 2021,
+        "genres":"Crime",
+        "runtime":"2hr25min",
+          
+        "languages" : [
+            {
+            "langauage_id":2,
+            "language" : "Hindi"
+
+        },
+        {
+            "langauage_id":3,
+            "language" : "Telugu"
+
+        },
+        {
+            "langauage_id":4,
+            "language" : "Malayalam"
+
+        },
+        {
+            "langauage_id":5,
+            "language" : "Bengali"
+
+        },
+        {
+            "langauage_id":6,
+            "language" : "Tamil"
+
+        },
+        {
+            "langauage_id":7,
+            "language" : "Kannada"
+
+        },
+        {
+            "langauage_id":9,
+            "language" : "Marathi"
+
+        }
+            
+            
+        ]
+    },
+    {
+
+        "v_id": 28,
+        "m_id":8,
+        "category_id": 2,
+        "name":"High School Musical",
+        "age":"7",
+        "description":"Troy and Gabriella share a passion for singing. When these two polar opposites try out for the school musical, it disturbs on East High's rigid social order.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4551/674551-h",
+        "year": 2006,
+        "genres":"Musical",
+        "runtime":"1hr33min",
+          
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 29,
+        "m_id":9,
+        "category_id": 2,
+        "name":"Maaran",
+        "age":"16",
+        "description":"Madhimaaran Sathyamoorthy is an honest investigative journalist. When he uncovers a scam, the professional risks start threatening his personal happiness.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/8863/1128863-h-75af4b0bb266",
+        "year": 2022,
+        "genres":"Action",
+        "runtime":"2hr10min",
+          
+        "languages" : [
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+    
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+    
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+    
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+    
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+    
+            }
+            
+            
+        ]
+    },
+    {
+
+        "v_id": 30,
+        "m_id":10,
+        "category_id": 2,
+        "name":"The Suite Life Movie",
+        "age":"16",
+        "description":"Zack and Cody are facing the challenges of growing up as twins. But, now they need each other to navigate through the mysterious Gemini Project.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6343/656343-h",
+        "year": 2011,
+        "genres":"Teen",
+        "runtime":"1hr18min",
+          
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 31,
+        "m_id":11,
+        "category_id": 2,
+        "name":"Creature 3D",
+        "age":"13",
+        "description":"Ahana acquires a hotel in the hills. At the launch party, she meets Kunal and they fall in love. But a strange creature begins to terrorise them!",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/old_images/MOVIE/1223/1000101223/1000101223-h",
+        "year": 2014,
+        "genres":"Scifi",
+        "runtime":"2hr7min",
+          
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 32,
+        "m_id":12,
+        "category_id": 2,
+        "name":"The Good Dinosaur",
+        "age":"7",
+        "description":"Arlo, an Apatosaurus makes friends with a human friend and learns how to deal with his fears and what he is capable of.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4384/674384-h",
+        "year": 2015,
+        "genres":"Kids",
+        "runtime":"1hr33min",
+          
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+    
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+    
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+    
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+    
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+    
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 33,
+        "m_id":13,
+        "category_id": 2,
+        "name":"Bhoot Police",
+        "age":"16",
+        "description":"Two brothers Vibhooti and Chiraunji have ‘fought’ their share of ghosts. However, a new case forces them to rethink their own abilities and beliefs.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9028/1159028-h-b04b55cd3e4a",
+        "year": 2021,
+        "genres":"Horror",
+        "runtime":"2hr8min",
+          
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 34,
+        "m_id":14,
+        "category_id": 2,
+        "name":"Teddy",
+        "age":"18",
+        "description":"When a loner crosses paths with a live teddy bear, the unusual duo sets off on an adventurous ride to uncover a devious scam and save lives.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/8366/928366-h",
+        "year": 2021,
+        "genres":"Thriller",
+        "runtime":"2hr15min",
+          
+        "languages" : [
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+    
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+    
+            },
+            
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+    
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+    
+            }
+            
+            
+        ]
+    },
+    {
+
+        "v_id": 35,
+        "m_id":15,
+        "category_id": 2,
+        "name":"Predators",
+        "age":"18",
+        "description":"In this new chapter, a group of cold-blooded killers are brought together on an alien planet to be hunted by a new breed of alien Predators.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4639/924639-h",
+        "year": 2009,
+        "genres":"Thriller",
+        "runtime":"1hr42min",
+          
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 36,
+        "m_id":16,
+        "category_id": 2,
+        "name":"The Lion King",
+        "age":"7",
+        "description":"In the African savanna, a young prince overcomes betrayal and tragedy to assume his rightful place on Pride Rock.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4600/674600-h",
+        "year": 2019,
+        "genres":"Adventure",
+        "runtime":"1hr58min",
+          
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+    
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+    
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+    
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+    
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 37,
+        "m_id":17,
+        "category_id": 2,
+        "name":"Raya and The Last Dragon",
+        "age":"7",
+        "description":"Raya, a fallen princess, must track down the legendary last dragon to stop the evil forces that have returned and threaten her world.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6878/1036878-h-3da0d7e00398",
+        "year": 2021,
+        "genres":"Fantasy",
+        "runtime":"1hr48min",
+          
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+    
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+    
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+    
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+    
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 38,
+        "m_id":18,
+        "category_id": 2,
+        "name":"Tanhaji",
+        "age":"16",
+        "description":"As Aurangzeb captures the Kondhana Fort, Tanhaji Malusare, Chhatrapati Shivaji Maharaj's trusted military leader and braveheart, ventures out to win it back.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2886/892886-h",
+        "year": 2020,
+        "genres":"Historical",
+        "runtime":"2hr12min",
+          
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 39,
+        "m_id":19,
+        "category_id": 2,
+        "name":"Glass",
+        "age":"16",
+        "description":"David Dunn pursues The Beast in a series of escalating encounters, but it is the shadowy presence of Elijah Price that holds secrets critical to both men.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7635/1107635-h-238b8c5b8db1",
+        "year": 2019,
+        "genres":"Mystery",
+        "runtime":"2hr9min",
+          
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+    
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+    
+            },
+           
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+    
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 40,
+        "m_id":20,
+        "category_id": 2,
+        "name":"Death On Nile",
+        "age":"16",
+        "description":"Hercule Poirot's Egyptian vacation aboard a river steamer turns into a terrifying search for a murderer after a couple’s honeymoon is cut tragically short.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3275/1173275-h-b9ae05c61942",
+        "year": 2022,
+        "genres":"Mystery",
+        "runtime":"2hr6min",
+          
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            }
+            
+        ]
+    }
+    
+]

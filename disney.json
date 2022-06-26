@@ -1,0 +1,789 @@
+[
+    {
+        "v_id": 62,
+        "d_id":1,
+        "name" :"Obi-Wan Kenobi",
+        "category_id": 4, 
+        "age":"18",
+        "description":"NEW EPISODE EVERY WEDNESDAY AT 12:30 PM. During the reign of the Empire, Obi-Wan Kenobi embarks on a crucial mission.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4152/1254152-h-51c53c3e48f9",
+        "year": 2022 ,
+        "genres":"Action",
+        "channel":"HotstarSpecials",
+        "runtine":"",
+        "season":1,
+        "episodes":7,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    
+    {
+        "v_id":63 ,
+        "d_id":2,
+        "name" :"Link: Eat, Love, Kill",
+        "category_id": 4, 
+        "age":"16",
+        "description":"NEW EPISODE EVERY MONDAY & TUESDAY AT 12:30 PM. When Eun Gye-hoon moves back to a familiar town, he finds himself experiencing strange emotions and realises he shares a connection with a woman who lives there.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4596/1264596-h-8788448a4163",
+        "year": 2022 ,
+        "genres":"Drama",
+        "channel":"Selectpicks",
+        "runtine":"",
+        "season":1,
+        "episodes":6,
+        "languages" : [
+            
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+    {
+        "v_id": 64,
+        "d_id":3,
+        "name" :"Kiss Sixth Sense",
+        "category_id": 4, 
+        "age":"16",
+        "description":"NEW EPISODES EVERY WEDNESDAY AT 12:30 PM. Hong Ye-sool, an account executive at Zeu Ad, is making her way up at work. However, she has one secret: she can see the future when she kisses someone.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9607/1249607-h-6b4659350ad0",
+        "year":  2022,
+        "genres":"Romance",
+        "channel":"Selectpicks",
+        "runtine":"",
+        "season":1,
+        "episodes":10,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English "
+
+            }
+        ]
+    },
+    {
+        "v_id": 65,
+        "d_id":4,
+        "name" :"Cars",
+        "category_id": 4, 
+        "age":"18",
+        "description":"A hotshot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4516/674516-h",
+        "year":  2006,
+        "genres":"Animation",
+        "channel":"Disney",
+        "runtine":"1hr57min",
+        "season": "",
+        "episodes": "",
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+        "v_id": 66,
+        "d_id": 5,
+        "name" :"Kedarnath",
+        "category_id": 4, 
+        "age":"7",
+        "description":"Witness the heart-wrenching survival stories of people who were caught in Kedarnath’s flash floods and the rescue efforts after the massive natural disaster.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3710/533710-h",
+        "year":  2013,
+        "genres":"Documentry",
+        "channel":"Natgeo",
+        "runtine":"",
+        "season":1,
+        "episodes":2,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+    {
+        "v_id":67 ,
+        "d_id":6,
+        "name" :"Family Reboot",
+        "category_id": 4, 
+        "age":"7",
+        "description":"Family Reboot follows busy families on a journey to reconnect and rebuild family bonds.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/770/1270770-h-bcc171098e53",
+        "year":  2022,
+        "genres":"Reality",
+        "channel":"Disney",
+        "runtine":"",
+        "season":1,
+        "episodes":6,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+        "v_id": 68,
+        "d_id":7,
+        "name" :"Dumbo",
+        "category_id": 4, 
+        "age":"7",
+        "description":"In this grand live-action adventure, Dumbo, a flying elephant, soars to new heights alongside spectacular aerial artist Colette Marchant.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4574/674574-h",
+        "year":  2019,
+        "genres":"Family",
+        "channel":"Disney",
+        "runtine":"1hr51min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            }
+        ]
+    },
+    {
+        "v_id": 69,
+        "d_id":8,
+        "name" :"Weat Side Story",
+        "category_id": 4, 
+        "age":"13",
+        "description":"Forbidden love blooms between Tony and Maria, amidst the rivalry between the Jets and the Sharks, two street gangs of different ethnic backgrounds.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9143/1119143-h-1f291453879e",
+        "year":  2021,
+        "genres":"Musical",
+        "channel":"Disney",
+        "runtine":"2hr36min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+    {
+        "v_id": 70,
+        "d_id":9,
+        "name" :"Aladdin",
+        "category_id": 4, 
+        "age":"13",
+        "description":"In this live-action retelling of 1992 classic, Aladdin and a power-hungry Grand Vizier vie for a magic lamp that can make their deepest wishes come true.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4554/674554-h",
+        "year": 2019 ,
+        "genres":"Fantasy",
+        "channel":"Disney",
+        "runtine":"2hr10min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            }
+        ]
+    },
+    {
+        "v_id":71 ,
+        "d_id":10,
+        "name" :"Cruella",
+        "category_id": 4, 
+        "age":"7",
+        "description":"The film is about the rebellious early days of cinema's most notorious and fashionable villains, the legendary Cruella de Vil.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/8630/1048630-h-c2405ed05f69",
+        "year":  2021,
+        "genres":"Crime",
+        "channel":"Disney",
+        "runtine":"2hr13min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            }
+        ]
+    },
+    {
+        "v_id": 72,
+        "d_id":11,
+        "name" :"Safety",
+        "category_id": 4, 
+        "age":"7",
+        "description":"The story of a freshman football player for Clemson University, who secretly raised his younger brother on campus after his home life became too unsteady.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5509/855509-h",
+        "year":  2020,
+        "genres":"Biopic",
+        "channel":"Disney",
+        "runtine":"1hr59min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+    {
+        "v_id": 73,
+        "d_id":12,
+        "name" :"Secretariat",
+        "category_id": 4, 
+        "age":"7",
+        "description":"Despite her limited knowledge, Penny takes charge of her father's stable and against all the odds, she creates history by winning the first-ever triple crown.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6645/666645-h",
+        "year": 2010 ,
+        "genres":"Historical",
+        "channel":"Disney",
+        "runtine":"1hr57min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+    {
+        "v_id": 74,
+        "d_id":13,
+        "name" :"Just Beyond",
+        "category_id": 4, 
+        "age":"7",
+        "description":"Inspired by the writings of R.L. Stine, “Just Beyond” is a supernatural anthology series.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5504/1065504-h-c0f0e1bde7b4",
+        "year": 2021 ,
+        "genres":"Horror",
+        "channel":"Disney",
+        "runtine":"",
+        "season":1,
+        "episodes":8,
+        "languages" : [
+            
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+    {
+        "v_id":75 ,
+        "d_id":14,
+        "name" :"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3598/753598-h",
+        "category_id": 4, 
+        "age":"7",
+        "description":"The documentary highlights the impact of extreme weather phenomena and tales of those who survived them.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3598/753598-h",
+        "year":  2016,
+        "genres":"Science",
+        "channel":"Natgeo",
+        "runtine":"45min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+        "v_id": 76,
+        "d_id":15,
+        "name" :"Best Of Luck Nikki",
+        "category_id": 4, 
+        "age":"18",
+        "description":"Dolly creates a video diary about their family and friends containing advice for Nikki when she grows up.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6379/1046379-h-fe0141c9e1b6",
+        "year":  2013,
+        "genres":"Teen",
+        "channel":"Disney",
+        "runtine":"",
+        "season":2,
+        "episodes":53,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+        "v_id": 77,
+        "d_id":16,
+        "name" :"Jhon Carter",
+        "category_id": 4, 
+        "age":"13",
+        "description":"Former military captain John Carter finds himself battling a new and mysterious war in the wounded planet of Mars.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4649/674649-h",
+        "year":  2012,
+        "genres":"Scifi",
+        "channel":"Disney",
+        "runtine":"2012",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+        "v_id": 78,
+        "d_id":17,
+        "name" :"Avengers : End Game",
+        "category_id": 4, 
+        "age":"7",
+        "description":"After the devastating events of the Infinity War, the Avengers assemble once more to reverse Thanos’ actions and restore balance to the universe.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4469/674469-h",
+        "year":  2019,
+        "genres":"Superhero",
+        "channel":"Marvel",
+        "runtine":"3hr1min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+        "v_id": 79,
+        "d_id":18,
+        "name" :"November Story",
+        "category_id": 4, 
+        "age":"18",
+        "description":"A celebrated crime novelist suffering from Alzheimer's is found at a murder scene with no memory of what happened. Now, it is up to his daughter to save him.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4718/994718-h",
+        "year": 2021 ,
+        "genres":"Thriller",
+        "channel":"Hotstarspecials",
+        "runtine":"",
+        "season":1,
+        "episodes":7,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+        "v_id":80 ,
+        "d_id":19,
+        "name" :"Glee: The 3D Concert Movie",
+        "category_id": 4, 
+        "age":"13",
+        "description":"The film enables Gleeks to relive the unique experience of the Glee Live! In Concert! Tour along with intimate behind the scenes footage.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5030/685030-h",
+        "year":  2011,
+        "genres":"Concertfilm",
+        "channel":"Disney",
+        "runtine":"1hr23min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+    {
+        "v_id": 81,
+        "d_id":20,
+        "name" :"Mega Day",
+        "category_id": 4, 
+        "age":"7",
+        "description":"Special Interview with Megastar Chiranjeevi on the occasion of his 60th Birthday where he shares details on his future plans, his comeback to movies and more importantly his 150th movie",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/old_images/SHOW/5295/5295/5295-h",
+        "year":  2015,
+        "genres":"Talkshow",
+        "channel":"Disney",
+        "runtine":"",
+        "season":1,
+        "episodes":1,
+        "languages" : [
+            
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            }
+           
+           
+        ]
+    }
+    
+]

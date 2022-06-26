@@ -1,0 +1,630 @@
+[
+    {
+        "v_id": 1,
+        "tv_id":1,
+        "name" :"insanity",
+        "category_id": 1, 
+        "age":"18",
+        "description":"Following a breakdown, forensics investigator Paula is admitted to a psychiatric hospital. There, she is pulled into the most terrifying corners of her mind.",
+        "image":"https://i.ibb.co/HPT5Kpb/1105934-h-badb7cdab145.jpg",
+        "year": 2022 ,
+        "genres":"Horror",
+        "channel":"SelectPicks",
+        "season":1,
+        "episodes":8,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+    {
+        "v_id": 2,
+        "tv_id":2,
+        "name" :"Parampara",
+        "category_id": 1, 
+        "age":"18",
+        "description":"For years, Naidu has kept everyone under his ruthless rule, until his nephew, Gopi, decides to challenge him and bring down his empire of injustice.",
+        "image":"https://i.ibb.co/DktQ11m/latestandtrending2.jpg",
+        "year": 2022 ,
+        "genres":"Drama",
+        "channel":"HotstarSpecials",
+        "season":1,
+        "episodes":7,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+
+        "v_id": 3,
+        "tv_id":3,
+        "category_id": 1,
+        "name":"Rudra: The Edge of Darkness",
+        "age":"18",
+        "description":"In the crime-ridden streets of Mumbai, journeying through the maze of psychopathic minds isbrilliant   supercop Rudraveer Singh, guarding against their darkness.",
+        "image":"https://i.ibb.co/R6KJDZ1/rudra.webp",
+        "year": 2022,
+        "genres":"Crime",
+        "channel":"HotstarSpecials",
+        "season":1,
+        "episodes":6,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+
+        "v_id": 4,
+        "tv_id":4,
+        "category_id": 1,
+        "name":"The Great Indian murder",
+        "age":"16",
+        "description":"When notorious industrialist Vicky Rai is shot dead at his own party, the main suspects are the guests, both invited and uninvited.",
+        "image":"https://i.ibb.co/jMD1fh0/g.jpg",
+        "year": 2022,
+        "genres":"Crime",
+        "channel":"HotstarSpecials",
+        "season":1,
+        "episodes":9,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+
+        "v_id":5 ,
+        "tv_id":5,
+        "category_id": 1,
+        "name":"HUMAN",
+        "age":"18",
+        "description":"In the race to make the next money-spinning drug, saving lives takes a backseat and people become less than human. Step into the murky world of drug trials.",
+        "image":"https://i.ibb.co/7rnRWZb/human.jpg",
+        "year": 2022,
+        "genres":"Thriller",
+        "channel":"HotstarSpecials",
+        "season":1,
+        "episodes":10,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+        
+    },
+    {
+
+        "v_id": 6,
+        "tv_id":6,
+        "category_id": 1,
+        "name":"Iss Pyar Ko Kya Naam Doon",
+        "age":"13",
+        "description":"A perfect story of opposites attract, where Khushi, a simple girl and Arnav, an arrogant businessman realise that they cannot live without each other.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1991/311991-h",
+        "year": 2011 ,
+        "genres":"Romance",
+        "channel":"Starplus",
+        "season":12,
+        "episodes":408,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 7,
+        "tv_id":7,
+        "category_id": 1,
+        "name":"Janaki Kalaganaledu",
+        "age":"13",
+        "description":"Putting her IPS hopes aside, Janaki marries Rama Chandra, a confectioner from a traditional family. Will Rama defy his mother and help Janaki fulfil her dreams?.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7244/937244-h",
+        "year": 2022,
+        "genres":"Family",
+        "channel":"Starmaa",
+        "season":1,
+        "episodes":352,
+        "languages" : [
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id":8 ,
+        "tv_id":8,
+        "category_id": 1,
+        "name":"Dance+",
+        "age":"13",
+        "description":"Remo is back with a bang to hunt for the next dance icon with host Raghav, and captains Punit, Shakti and Salman. The biggest dance battle of the year is here!",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5471/1055471-h-ae308a20ac19",
+        "year": 2022,
+        "genres":"Reality",
+        "channel":"Starplus",
+        "season":6,
+        "episodes":140,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 9,
+        "tv_id":9,
+        "category_id": 1,
+        "name":"How I Met Your Mother",
+        "age":"16",
+        "description":"Ted Mosby, an architect, recounts to his children the events that led him to meet their mother.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7527/177527-h",
+        "year": 2005,
+        "genres":"Comedy",
+        "channel":"Starworld",
+        "season":9,
+        "episodes":208,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 10,
+        "tv_id":10,
+        "category_id": 1,
+        "name":"Mahabarath",
+        "age":"13",
+        "description":"The mother of all wars, the epitome of all rivalries, the cauldron of emotions, insecurities, jealousies, and power play - Mahabharat!",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7456/267456-h",
+        "year": 2013,
+        "genres":"Mythology",
+        "channel":"Starplus",
+        "season":28,
+        "episodes":269,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id":11 ,
+        "tv_id":11,
+        "category_id": 1,
+        "name":"MasterChef Australia",
+        "age":"7",
+        "description":"NEW EPISODES MONDAY TO FRIDAY AT 9:00 PM. Top Australian chefs judge passionate home cooks who participate in competitive culinary challenges to develop their cooking skills and win the title.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2444/1202444-h-5dbebac51294",
+        "year": 2021,
+        "genres":"Food",
+        "channel":"Starworld",
+        "season":2,
+        "episodes":107,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 12 ,
+        "tv_id":12,
+        "category_id":1 ,
+        "name":"Prison Break",
+        "age":"16",
+        "description":"An engineer installs himself in a prison he helped design, in order to save his falsely accused brother from a death sentence.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4380/184380-h",
+        "year":2005 ,
+        "genres":"Action",
+        "channel":"Starworld",
+        "season":5,
+        "episodes":90,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id":13 ,
+        "tv_id":13,
+        "category_id":1 ,
+        "name":"Koffee With Karan",
+        "age":"16",
+        "description":"With a brand new season exploring gripping inside scoops, Karan Johar returns with your favourite celebs on July 7 to find out what's brewing in B-Town.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2329/1282329-h-0f00930d2a05",
+        "year": 2019,
+        "genres":"Talkshow",
+        "channel":"Starworld",
+        "season":6,
+        "episodes":134,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 14,
+        "tv_id":14,
+        "category_id": 1,
+        "name":"Health Desk",
+        "age":"13",
+        "description":"Wash your hands! Our medical experts along with your fav celebs share things you must know about COVID-19 and the precautions you must take to avoid it.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6451/666451-h",
+        "year": 2020,
+        "genres":"Lifestyle",
+        "channel":"Asianet",
+        "season":1,
+        "episodes":10,
+        "languages" : [
+            {
+                "langauage_id":4,
+                "language" : "Malyalam"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 15,
+        "tv_id":15,
+        "category_id": 1,
+        "name":"Science Of Stupid",
+        "age":"13",
+        "description":"Science of Stupid reveals through science experts exactly how & why adventures turn to misadventures..",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3428/753428-h",
+        "year": 2015,
+        "genres":"Science",
+        "channel":"Natgeo",
+        "season":9,
+        "episodes":192,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 16,
+        "tv_id":16,
+        "category_id": 1,
+        "name":"Primal Survivor",
+        "age":"13",
+        "description":"Join survival instructor Hazen Audel as he tackles some of mankinds most rigorous journeys, relying on skills learned from native inhabitants.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3233/913233-h",
+        "year": 2016,
+        "genres":"Travel",
+        "channel":"Natgeo",
+        "season":9,
+        "episodes":58,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id":17 ,
+        "tv_id":17,
+        "category_id":1 ,
+        "name":"Once Up On A Time",
+        "age":"13",
+        "description":"In the crime-ridden streets of Mumbai, journeying through the maze of psychopathic minds isbrilliant   supercop Rudraveer Singh, guarding against their darkness.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9279/689279-h",
+        "year": 2011,
+        "genres":"Adventure",
+        "channel":"Abcstudios",
+        "season":7,
+        "episodes":156,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 18,
+        "tv_id":18,
+        "category_id": 1 ,
+        "name":"Game Of Thrones",
+        "age":"18",
+        "description":"In the crime-ridden streets of Mumbai, journeying through the maze of psychopathic minds isbrilliant   supercop Rudraveer Singh, guarding against their darkness.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4904/474904-h",
+        "year": 2011,
+        "genres":"Fantasy",
+        "channel":"Hbo",
+        "season":8,
+        "episodes":73,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 19,
+        "tv_id":19,
+        "category_id": 1,
+        "name":"The Empire",
+        "age":"16",
+        "description":"In the midst of scheming courtiers, ministers and a dead king, 14-year-old Babur steps up to his destiny and leaves an indelible mark on history.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1463/1051463-h-3a8c06d83131",
+        "year": 2021,
+        "genres":"Historical",
+        "channel":"HotstarSpecials",
+        "season":1,
+        "episodes":8,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+            
+        ]
+    },
+    {
+
+        "v_id": 20,
+        "tv_id":20,
+        "category_id": 1,
+        "name":"True Detective",
+        "age":"18",
+        "description":"True Detective brings in an intense series of troubled cops and the investigations that drive them to the edge. Each season features a new cast and a new case.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7031/227031-h",
+        "year": 2014,
+        "genres":"Mystery",
+        "channel":"Hbo",
+        "season":3,
+        "episodes":24,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+            
+        ]
+    }
+
+
+
+]

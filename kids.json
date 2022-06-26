@@ -1,0 +1,960 @@
+[
+    {
+        "v_id": 82,
+        "k_id":1,
+        "name" :"The Wonderful Spring of Mickey Mouse",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Mickey Mouse and his friends explore the promise of the spring season through the lens of a unique nature documentary.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9244/1159244-h-10e47c6f3aab",
+        "year": 2022 ,
+        "genres":"kids",
+        "channel":"Mickey",
+        "runtine":"45min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+        "v_id": 83,
+        "k_id":2,
+        "name" :"Mickey, Donald, Goofy: The Three Musketeers",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Based on Alexandre Dumas' novel, it features Mickey Mouse, Donald Duck, and Goofy as the Three Musketeers who become pawns in Peg-leg Pete's sinister scheme.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6166/686166-h",
+        "year": 2004 ,
+        "genres":"kids",
+        "channel":"Mickey",
+        "runtine":"1hr4min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            
+            
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+    {
+        "v_id": 84,
+        "k_id":3,
+        "name" :"Mickey Mouse Roadster Racers",
+        "category_id": 5, 
+        "age":"3",
+        "description":"Mickey Mouse and his pals take their unique transforming vehicles on humorous high-spirited races around the globe as well as hometown capers in Hot Dog Hills.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3699/673699-h",
+        "year": 2017 ,
+        "genres":"Kids",
+        "channel":"Mickey",
+        "runtine":"",
+        "season":1,
+        "episodes":25,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 85,
+        "k_id":4,
+        "name" :"Disney Minnie's Bow-Toons (Shorts)",
+        "category_id": 5, 
+        "age":"7",
+        "description":"There’s no business like bow business! In this collection of shorts, Minnie Mouse teams up with her friend Daisy to open up Minnie’s Bow-tique.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3701/673701-h",
+        "year": 2011 ,
+        "genres":"Kids",
+        "channel":"Mickey",
+        "runtine":"",
+        "season":1,
+        "episodes":10,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 86,
+        "k_id":5,
+        "name" :"Frozen II",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Why was Elsa born with magical powers? Together with Anna, Kristoff, Olaf, and Sven, she sets out on a dangerous but remarkable journey to find the answer.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4425/674425-h",
+        "year": 2019 ,
+        "genres":"Kids",
+        "channel":"Princesses",
+        "runtine":"1hr50min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 87,
+        "k_id":6,
+        "name" :"The Little Mermaid",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Ariel, a mermaid, is off on an adventure to save her father's beloved kingdom from the sea witch Ursula, with her best friends Flounder and Sebastian.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4550/674550-h",
+        "year": 2022 ,
+        "genres":"Kids",
+        "channel":"Princesses",
+        "runtine":"1hr22min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 88,
+        "k_id":7,
+        "name" :"Mulan",
+        "category_id": 5, 
+        "age":"7",
+        "description":"When Mulan's country is forced into war, she joins the Chinese army by disguising herself as a man and brings victory to her country.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4541/674541-h",
+        "year": 1998 ,
+        "genres":"Kids",
+        "channel":"Princesses",
+        "runtine":"2hr32min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 89,
+        "k_id":8,
+        "name" :"Disney Vampirina",
+        "category_id": 5, 
+        "age":"7",
+        "description":"After moving from Transylvania to Pennsylvania, Vee learns how to make new friends in a new school and experience everything the human world has to offer.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2988/1052988-h-755b23539e8c",
+        "year": 2022 ,
+        "genres":"Kids",
+        "channel":"Junior",
+        "runtine":"",
+        "season":2,
+        "episodes":50,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 90,
+        "k_id":9,
+        "name" :"Puppy Dog Pals",
+        "category_id": 5, 
+        "age":"3",
+        "description":"Fun-loving pug puppies, brothers Bingo and Rolly, have thrill-seeking appetites that take them on adventures in their neighbourhood and around the globe.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3735/673735-h",
+        "year": 2017 ,
+        "genres":"Kids",
+        "channel":"Junior",
+        "runtine":"",
+        "season":1,
+        "episodes":25,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 91,
+        "k_id":10,
+        "name" :"Hulk And The Agents Of S.M.A.S.H.",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Joined by his larger-than-life teammates who double as an unlikely family, The Hulk tackles threats that are too enormous for other heroes to handle.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3775/673775-h",
+        "year": 2022 ,
+        "genres":"Kids",
+        "channel":"Superhero",
+        "runtine":"",
+        "season":2,
+        "episodes":8,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 92,
+        "k_id":11,
+        "name" :"Bolt",
+        "category_id": 5, 
+        "age":"7",
+        "description":"The star of a hit TV show sets off on a cross country journey when he is sent to New York City instead of his Hollywood soundstage.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4439/674439-h",
+        "year": 2008 ,
+        "genres":"Kids",
+        "channel":"Superhero",
+        "runtine":"",
+        "season":1,
+        "episodes":12,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 93,
+        "k_id":12,
+        "name" :"Marvel's Avengers: Secret Wars (Shorts)",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Tony Stark is trapped in another dimension. The Avengers muster all of their knowledge and strength to find a way to bring him back.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4732/654732-h",
+        "year": 2022 ,
+        "genres":"Kids",
+        "channel":"Superhero",
+        "runtine":"",
+        "season":1,
+        "episodes":6,
+        "languages" : [
+           
+           
+              
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 94,
+        "k_id":13,
+        "name" :"Onward",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Set in a suburban fantasy world, Onward introduces two teenage elf brothers who embark on an extraordinary quest to discover if there is still a little magic left out there.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1406/1121406-h-765aa9d92cf1",
+        "year": 2020 ,
+        "genres":"Kids",
+        "channel":"Action",
+        "runtine":"",
+        "season":1,
+        "episodes":9,
+        "languages" : [
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 95,
+        "k_id":14,
+        "name" :"Arjun - Prince of Bali",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Prince Arjun and his friends set off on adventures and defeat demons, witches and monsters with their unique blend of bravery, intelligence and compassion.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5761/1115761-h-f1b0065bfe13",
+        "year": 2021 ,
+        "genres":"Kids",
+        "channel":"Action",
+        "runtine":"",
+        "season":3,
+        "episodes":95,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 96,
+        "k_id":15,
+        "name" :"Star Wars Rebels",
+        "category_id": 5, 
+        "age":"7",
+        "description":"When the Galactic Empire secures its hold on the galaxy, hunting down the last Jedi Knights, a starship crew decides to stand up against it.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3780/673780-h",
+        "year": 2014 ,
+        "genres":"Kids",
+        "channel":"Action",
+        "runtine":"",
+        "season":4,
+        "episodes":77,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 97,
+        "k_id":16,
+        "name" :"Chip 'n' Dale's Rescue Rangers",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Chip and Dale head a small, eccentric group of animal characters who monitor not only the human world, but the animal community as well, solving mysteries wherever they may be.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4686/1114686-h-16fce92d555c",
+        "year": 2000 ,
+        "genres":"Kids",
+        "channel":"Action",
+        "runtine":"",
+        "season":1,
+        "episodes":65,
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+
+    {
+        "v_id": 98,
+        "k_id":17,
+        "name" :"Diving with Dolphins",
+        "category_id": 5, 
+        "age":"7",
+        "description":"From surfing with dolphins to dancing with humpback whales, the filmmakers go to great lengths to shed new light on the ocean's mysteries.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5592/975592-h",
+        "year": 2022 ,
+        "genres":"Kids",
+        "channel":"Animal",
+        "runtine":"50min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+        "v_id": 99,
+        "k_id":18,
+        "name" :"Elephant",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Elephant Shani and her son Jomo set out on an epic journey across the Kalahari Desert following the footsteps of their ancestors on a quest to reach paradise.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5600/975600-h",
+        "year": 2022 ,
+        "genres":"Kids",
+        "channel":"Animal",
+        "runtine":"1hr50min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+        "v_id": 100,
+        "k_id":19,
+        "name" :"The World's Most Famous Tiger",
+        "category_id": 5, 
+        "age":"7",
+        "description":"Machli, the legendary tigress, is threatened by her offsprings and is in jeopardy of losing her reign of her territory in India's Ranthambore National Park.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3401/753401-h",
+        "year": 2022 ,
+        "genres":"Kids",
+        "channel":"Animal",
+        "runtine":"2hr50min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    },
+    {
+        "v_id": 101,
+        "k_id":20,
+        "name" :"Dino Bird",
+        "category_id": 5, 
+        "age":"7",
+        "description":"The special follows Bertha, a pre-historic bird in Australia's oldest rainforest and her life through the seasons.",
+        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3568/753568-v",
+        "year": 2018 ,
+        "genres":"Kids",
+        "channel":"Animal",
+        "runtine":"50min",
+        "season":"",
+        "episodes":"",
+        "languages" : [
+            {
+                "langauage_id":1,
+                "language" : "English"
+
+            },
+            {
+                "langauage_id":2,
+                "language" : "Hindi"
+
+            },
+            {
+                "langauage_id":3,
+                "language" : "Telugu"
+
+            },
+            {
+                "langauage_id":4,
+                "language" : "Malayalam"
+
+            },
+            {
+                "langauage_id":5,
+                "language" : "Bengali"
+
+            },
+            {
+                "langauage_id":6,
+                "language" : "Tamil"
+
+            },
+            {
+                "langauage_id":7,
+                "language" : "Kannada"
+
+            },
+            {
+                "langauage_id":9,
+                "language" : "Marathi"
+
+            }
+        ]
+    }
+
+
+
+]
